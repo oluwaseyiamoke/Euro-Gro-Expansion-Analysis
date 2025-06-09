@@ -74,3 +74,6 @@ The Lisbon market presents a strong opportunity for EuroGro, with favorable dema
 
 ## 📎 Appendices  
 🔗 [Full Feasibility Report with Customer Segmentation, Financial Models, and HR Benchmarks](https://tinyurl.com/mryr4t37)
+
+You can download the EuroGro Lisbon Expansion Feasibility Analysis PowerPoint presentation here:
+📂 Team Delta EuroGro Lisbon Expansion Presentation.ppt
