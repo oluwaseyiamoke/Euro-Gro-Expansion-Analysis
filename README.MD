@@ -77,5 +77,8 @@ The Lisbon market presents a strong opportunity for EuroGro, with favorable dema
 
 ## 🎥 Presentation
 
+## 🎥 Presentation
+
 You can download the **Team Delta EuroGro Lisbon Expansion Presentation** PowerPoint file here:  
-📂 [Team Delta EuroGro Lisbon Expansion Presentation.ppt](Team%20Delta%20EuroGro%20Lisbon%20Expansion%20Presentation.ppt)
+📂 [Team Delta EuroGro Lisbon Expansion Presentation.pptx](Team%20Delta%20EuroGro%20Lisbon%20Expansion%20Presentation.pptx)
+
